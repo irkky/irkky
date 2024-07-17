@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishabh kumar Kannaujiya</h1>
 <h3 align="center">Exploring the World of Machine Learning 🤖</h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/1c599fd918f649ead173975ee0cb6ce72c47d2765e2813f608f7282a74407e26/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FSupianIDz%2FSupianIDz&psig=AOvVaw1E3E_MWTVhyaS9lbq9xmOC&ust=1721330024310000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJDYsZ_krocDFQAAAAAdAAAAABAE">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=btwitsrishabh&label=Profile%20views&color=0e75b6&style=flat" alt="btwitsrishabh" /> </p>
 
