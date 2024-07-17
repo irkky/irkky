@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rishabh kumar Kannaujiya</h1>
+<h1 align="center">Hi 👋, I'm Rishabh kumar Kannaujiya <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 <h3 align="center">Exploring the World of Machine Learning 🤖</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
