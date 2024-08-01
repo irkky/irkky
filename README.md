@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **GAN, NLP, Deep learning, Langchain and GCP.**
 
-- 📫 How to reach me **rikkyrich69@gmail.com**
+- 📫 How to reach me **rishabhkrkannaujiya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
