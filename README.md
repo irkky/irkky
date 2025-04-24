@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh kumar Kannaujiya <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
-<h3 align="center">Exploring the World of Machine Learning 🤖</h3>
+<h3 align="center">Exploring the World of Artificial Intelligence 🤖</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Generative AI and Deep Learning**
 
-- 🌱 I’m currently learning **GAN, NLP, Deep learning, Langchain and GCP.**
+- 🌱 I’m currently learning **GAN, NLP, Deep learning, Langchain and Cloud.**
 
 - 📫 How to reach me **rishabhkrkannaujiya@gmail.com**
 
