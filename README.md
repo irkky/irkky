@@ -32,7 +32,7 @@
 &nbsp;&nbsp;
 <a href="https://www.patreon.com/RishabhKannaujiya" target="_blank"><img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" alt="Become a Patron" height="40"></a>
 &nbsp;&nbsp;
-<a href="upi://pay?pa=rikkyrich96@oksbi" target="_blank"><img src="https://img.shields.io/badge/Pay%20with-UPI-blue?style=for-the-badge&logo=upi" alt="Pay with UPI" height="40"></a>
+<a href="rikkyrich96@oksbi" target="_blank"><img src="https://img.shields.io/badge/Pay%20with-UPI-blue?style=for-the-badge&logo=upi" alt="Pay with UPI" height="40"></a>
 </p>
 
 🧰 Languages & Tools:
