@@ -1,24 +1,20 @@
 <h1 align="center">Hi 👋, I'm Rishabh Kumar Kannaujiya <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00F7FF&center=true&width=435&lines=AI+Practitioner+%7C+ML+%26+DL+Explorer;Let's+build+the+future+together+%F0%9F%A4%96" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00F7FF&center=true&width=435&lines=AI+Practitioner+%7C+ML+%26+DL+Explorer;Let's+build+the+future+together+%F0%9F%A4%96" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=btwitsrishabh&label=Profile%20views&color=0e75b6&style=flat" alt="btwitsrishabh" />
+<img src="https://komarev.com/ghpvc/?username=btwitsrishabh&label=Profile%20views&color=0e75b6&style=flat" alt="btwitsrishabh" />
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 
----
+🔭 I’m currently working on Generative AI and Deep Learning
 
-- 🔭 I’m currently working on **Generative AI and Deep Learning**
+🌱 I’m currently learning GAN, NLP, Deep learning, Langchain and Cloud.
 
-- 🌱 I’m currently learning **GAN, NLP, Deep learning, Langchain and Cloud.**
-
-- 📫 How to reach me **rishabhkrkannaujiya@gmail.com**
-
----
+📫 How to reach me rishabhkrkannaujiya@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,30 +26,44 @@
 <a href="https://huggingface.co/btwitsRishabh" target="blank"><img align="center" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" alt="btwitsRishabh" height="40" width="40" /></a>
 </p>
 
----
+<h3 align="left">Support Me:</h3>
+<p align="left">
+<a href="https://buymeacoffee.com/rishabhkannaujiya" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40" width="145"></a>
+&nbsp;&nbsp;
+<a href="https://www.patreon.com/RishabhKannaujiya" target="_blank"><img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" alt="Become a Patron" height="40"></a>
+&nbsp;&nbsp;
+<a href="upi://pay?pa=rikkyrich96@oksbi" target="_blank"><img src="https://img.shields.io/badge/Pay%20with-UPI-blue?style=for-the-badge&logo=upi" alt="Pay with UPI" height="40"></a>
+</p>
 
-### 🧰 Languages & Tools:
-
+🧰 Languages & Tools:
 <p align="">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,flask,gcp,figma,vscode" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,flask,gcp,figma,vscode" />
 </p>
 
----
+🏆 GitHub Trophies
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=irkky&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=15&margin-h=15" />
+</p>
 
-### 🏆 GitHub Trophies:
+📊 GitHub Stats:
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=irkky&show_icons=true&theme=radical" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=irkky&theme=radical" alt="Streak Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irkky&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+📈 My GitHub Activity
+<!--START_SECTION:activity-->
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=irkky&theme=algolia&no-frame=true&no-bg=true&margin-w=4" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=irkky&theme=tokyo-night&hide_border=true&hide_title=false&area=true&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff" alt="GitHub Activity Graph"/>
 </p>
+<!--END_SECTION:activity-->
 
----
-
-### 📊 GitHub Stats:
-
+😄 Here's a Random Dev Joke For You!
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irkky&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irkky&theme=radical" alt="Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irkky&layout=compact&theme=radical" alt="Top Languages" />
+<a href="https://readme-jokes.vercel.app/api">
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+</a>
 </p>
 
----
