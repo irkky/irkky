@@ -42,7 +42,7 @@
 
 🏆 GitHub Trophies
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=irkky&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=15&margin-h=15" />
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irkky&theme=juicyfresh" alt="Rishabh's trophies" /></a> </p>
 </p>
 
 📊 GitHub Stats:
