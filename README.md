@@ -37,7 +37,7 @@
 
 🧰 Languages & Tools:
 <p align="">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,flask,gcp,figma,vscode" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,git,github,flask,gcp,figma,vscode" /> <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.59.0/files/dark/langchain.png" alt="c" width="60" height="60"/> </a> 
 </p>
 
 🏆 GitHub Trophies
