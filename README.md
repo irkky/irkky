@@ -18,12 +18,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/btwitsrikky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="btwitsrikky" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/rishabh-kannaujiya-712178207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishabh-kannaujiya" height="30" width="40" /></a>
-<a href="https://kaggle.com/rishabhkannaujiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rishabhkannaujiya" height="30" width="40" /></a>
-<a href="https://instagram.com/btwitsrikky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="btwitsrikky" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/btwitsrikky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="btwitsrikky" height="30" width="40" /></a>
-<a href="https://huggingface.co/btwitsRishabh" target="blank"><img align="center" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" alt="btwitsRishabh" height="40" width="40" /></a>
+  <a href="https://portfolio-smoky-rho-12.vercel.app/" target="_blank">
+  <img align="center" src="https://img.icons8.com/ios-filled/50/000000/portfolio.png" alt="Portfolio" height="30" width="40" />
+</a>
+<a href="https://x.com/i_rkky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_rkky" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rishabh-kr-kannaujiya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishabh-kr-kannaujiya" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/rishabhkannaujiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rishabhkannaujiya" height="30" width="40" /></a>
+<a href="https://instagram.com/i_rkky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_rkky" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/irkky/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="irkky" height="30" width="40" /></a>
+<a href="https://huggingface.co/irkky" target="blank"><img align="center" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" alt="irkky" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Support Me:</h3>
