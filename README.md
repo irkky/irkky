@@ -56,12 +56,13 @@
 </p>
 
 📈 My GitHub Activity
-<!--START_SECTION:activity-->
+<img 
+src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" 
+alt="Snake eating contributions" 
+style="opacity: 0.8;" 
+/>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=irkky&theme=tokyo-night&hide_border=true&hide_title=false&area=true&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff" alt="GitHub Activity Graph"/>
-</p>
-<!--END_SECTION:activity-->
+---
 
 😄 Here's a Random Dev Joke For You!
 <p align="center">
