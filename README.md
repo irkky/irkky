@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://portfolio-smoky-rho-12.vercel.app/" target="_blank">
+  <a href="https://rishabh-kumar-kannaujiya.vercel.app/" target="_blank">
   <img align="center" src="https://img.icons8.com/ios-filled/50/000000/portfolio.png" alt="Portfolio" height="30" width="40" />
 </a>
 <a href="https://x.com/i_rkky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_rkky" height="30" width="40" /></a>
