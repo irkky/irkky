@@ -8,13 +8,9 @@
 <img src="https://komarev.com/ghpvc/?username=btwitsrishabh&label=Profile%20views&color=0e75b6&style=flat" alt="btwitsrishabh" />
 </p>
 
-<img align="right" alt="Coding" width="500" src="https://i.redd.it/n8agw6z2smyb1.gif">
+<img align="right" alt="Coding" width="450" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M25qajU4NHE3bTd6Y2tqcXNzdDR5M3BrZWlid2FoZndva2VpcTNwYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/de5bARu0SsXiU/giphy.gif">
 
-🔭 I’m currently working on Generative AI and Deep Learning
-
-🌱 I’m currently learning GAN, NLP, Deep learning, Langchain and Cloud.
-
-📫 How to reach me rishabhkrkannaujiya@gmail.com
+Aghh! **The closer I get to technology, the stronger I feel nature calling.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,14 +25,6 @@
 <a href="https://huggingface.co/irkky" target="blank"><img align="center" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" alt="irkky" height="40" width="40" /></a>
 </p>
 
-<h3 align="left">Support Me:</h3>
-<p align="left">
-<a href="https://buymeacoffee.com/rishabhkannaujiya" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40" width="145"></a>
-&nbsp;&nbsp;
-<a href="https://www.patreon.com/RishabhKannaujiya" target="_blank"><img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" alt="Become a Patron" height="40"></a>
-&nbsp;&nbsp;
-<a href="rikkyrich96@oksbi" target="_blank"><img src="https://img.shields.io/badge/Pay%20with-UPI-blue?style=for-the-badge&logo=upi" alt="Pay with UPI" height="40"></a>
-</p>
 
 🧰 Languages & Tools:
 <p align="">
