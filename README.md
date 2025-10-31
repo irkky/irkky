@@ -8,7 +8,7 @@
 <img src="https://komarev.com/ghpvc/?username=btwitsrishabh&label=Profile%20views&color=0e75b6&style=flat" alt="btwitsrishabh" />
 </p>
 
-<img align="right" alt="Coding" width="450" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M25qajU4NHE3bTd6Y2tqcXNzdDR5M3BrZWlid2FoZndva2VpcTNwYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/de5bARu0SsXiU/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M25qajU4NHE3bTd6Y2tqcXNzdDR5M3BrZWlid2FoZndva2VpcTNwYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/de5bARu0SsXiU/giphy.gif">
 
 Aghh! **The closer I get to technology, the stronger I feel nature calling.**
 
