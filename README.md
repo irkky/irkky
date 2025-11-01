@@ -31,17 +31,6 @@ Aghh! **The closer I get to technology, the stronger I feel nature calling.**
 <img src="https://skillicons.dev/icons?i=python,tensorflow,git,github,flask,gcp,matlab,vscode" /> <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.59.0/files/dark/langchain.png" alt="c" width="60" height="60"/> </a> 
 </p>
 
-🏆 GitHub Trophies
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irkky&theme=juicyfresh" alt="Rishabh's trophies" /></a> </p>
-</p>
-
-📊 GitHub Stats:
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=irkky&show_icons=true&theme=radical" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=irkky&theme=radical" alt="Streak Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irkky&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 📈 My GitHub Activity
 <img 
