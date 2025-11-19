@@ -4,17 +4,31 @@
 <img src="https://komarev.com/ghpvc/?username=btwitsrishabh&label=Profile%20views&color=0e75b6&style=flat" alt="btwitsrishabh" />
 </p>
 
-<img align="right" alt="I am Cooked" width="400px" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/491e3e44-11a0-487a-b07b-717f677bbe4a">
+<!-- Main Content Section using a table for better alignment -->
 
-The closer I get to technology, the stronger I feel nature calling. But still
-Love interacting with the community and learning new things.
+<table>
+<tr>
+<td width="60%" valign="top">
+<h2>👨‍💻 About Me</h2>
+<blockquote>
+"The closer I get to technology, the stronger I feel nature calling. 🌿 Yet, my love for community and learning keeps me grounded in code."
+</blockquote>
+<br />
+<ul>
+<li><strong>Name:</strong> Rishabh Kumar Kannaujiya (irkky)</li>
+<li><strong>Pronouns:</strong> He/Him/His</li>
+<li><strong>Website:</strong> <a href="https://rishabh-kumar-kannaujiya.vercel.app/">rishabh-kumar-kannaujiya.vercel.app</a></li>
+<li><strong>Contact:</strong> <a href="mailto:rishabhkrkannaujiya@gmail.com">rishabhkrkannaujiya@gmail.com</a></li>
+</ul>
+</td>
+<td width="40%" valign="center">
+<div align="center">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/491e3e44-11a0-487a-b07b-717f677bbe4a" width="100%" alt="Coding GIF">
+</div>
+</td>
+</tr>
+</table>
 
-**Talking about personal stuff:**
-
-- I’m Rishabh Kumar Kannaujiya (irkky).
-- Pronouns: he/him/his.
-- How to reach me: rishabhkrkannaujiya@gmail.com
-- 🌐Website: https://rishabh-kumar-kannaujiya.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,8 +43,8 @@ Love interacting with the community and learning new things.
 
 ## Statistics
 
-<img align="left" width="500px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=irkky&theme=github_dark" />
-<img align="right" width="260px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irkky&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Most used programming languages" />
+<img align="left" width="600px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=irkky&theme=github_dark" />
+<img align="right" width="280px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irkky&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Most used programming languages" />
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" style="opacity: 1;"/>
 
 ---
