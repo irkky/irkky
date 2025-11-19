@@ -43,8 +43,8 @@
 
 ## Statistics
 
-<img align="left" width="600px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=irkky&theme=github_dark" />
-<img align="right" width="280px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irkky&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Most used programming languages" />
+<img align="left" width="550px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=irkky&theme=github_dark" />
+<img align="right" width="260px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irkky&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Most used programming languages" />
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" style="opacity: 1;"/>
 
 ---
